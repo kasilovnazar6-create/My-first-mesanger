@@ -196,7 +196,7 @@ HTML_CODE = """
 </head>
 <body>
     <div class="sidebar">
-        <div class="sidebar-header">⚙️ ХАБ УПРАВЛЕНИЯ</div>
+        <div class="sidebar-header">YuuY 💬</div>
         <div class="setup-profile">
             <label>Ваш псевдоним:</label>
             <div class="profile-input-zone">
